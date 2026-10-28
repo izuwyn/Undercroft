@@ -1,7 +1,7 @@
 {
-  "version": "0.10",
-  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v0.10-win64.exe",
-  "sha256": "92f880f4a6ee4782ffd50a0367e8c585aa3f7d7f2f2efb9d20b896d0758b0404",
-  "size": 7921664,
-  "notes": "Enemies in 3D, ragdolls, a real lever"
+  "version": "0.11",
+  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v0.11-win64.exe",
+  "sha256": "ea34230c90572b9ec3a79e28f271c61a0c8a4be14852db7b1304ddc1faba1281",
+  "size": 7936000,
+  "notes": "Louder, with music, and enemies that make noise"
 }
