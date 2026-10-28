@@ -1,7 +1,7 @@
 {
-  "version": "0.13",
-  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v0.13-win64.exe",
-  "sha256": "0bbbcff836cf83eb21ac0695e8ebad44865dd84af9ac1535db570891e6ab364d",
-  "size": 7944192,
-  "notes": "Settings tidy-up"
+  "version": "0.14",
+  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v0.14-win64.exe",
+  "sha256": "1f5842964085c6fd05b317cf3254d06b4887ccc447105d4313a8c9a28b8daa8b",
+  "size": 7988224,
+  "notes": "Harrowmere"
 }
