@@ -1,7 +1,7 @@
 {
-  "version": "0.12",
-  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v0.12-win64.exe",
-  "sha256": "70dcc2ff19124bb8434c34be232bf436a1494fb6a3124bac876861ae6245d147",
-  "size": 7941632,
-  "notes": "Every door opens"
+  "version": "0.13",
+  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v0.13-win64.exe",
+  "sha256": "0bbbcff836cf83eb21ac0695e8ebad44865dd84af9ac1535db570891e6ab364d",
+  "size": 7944192,
+  "notes": "Settings tidy-up"
 }
