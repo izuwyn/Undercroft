@@ -1,7 +1,7 @@
 {
-  "version": "0.11",
-  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v0.11-win64.exe",
-  "sha256": "ea34230c90572b9ec3a79e28f271c61a0c8a4be14852db7b1304ddc1faba1281",
-  "size": 7936000,
-  "notes": "Louder, with music, and enemies that make noise"
+  "version": "0.12",
+  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v0.12-win64.exe",
+  "sha256": "70dcc2ff19124bb8434c34be232bf436a1494fb6a3124bac876861ae6245d147",
+  "size": 7941632,
+  "notes": "Every door opens"
 }
