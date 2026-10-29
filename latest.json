@@ -1,7 +1,7 @@
 {
-  "version": "0.15",
-  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v0.15-win64.exe",
-  "sha256": "1ddbf5f81545e0a413d0639a8348a0a5d5de6065e7b63bdac10931f1b34d7ede",
-  "size": 7995392,
-  "notes": "Dropping items, and a better bow"
+  "version": "1.0",
+  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v1.0-win64.exe",
+  "sha256": "41ee83c24a6a60df22a7fc1258c9a4b9fdd66a4c1361beefd732262421f6d861",
+  "size": 9069568,
+  "notes": "The Abbey Road"
 }
