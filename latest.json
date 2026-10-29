@@ -1,7 +1,7 @@
 {
-  "version": "1.2",
-  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v1.2-win64.exe",
-  "sha256": "0316a0677f858a694a8d5bbd05557b21b3cf3e87a97c0b293a43ba85e5895105",
-  "size": 9501696,
-  "notes": "Swimming, a real bridge, deeper woods and a screen filter"
+  "version": "1.3",
+  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v1.3-win64.exe",
+  "sha256": "b4a89eed7347e6911fb9f501ab39fa571eef20f56dea73eb3547cf0aaa67c4d7",
+  "size": 9519104,
+  "notes": "Into the wild"
 }
