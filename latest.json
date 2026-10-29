@@ -1,7 +1,7 @@
 {
-  "version": "1.5.1",
-  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v1.5.1-win64.exe",
-  "sha256": "1258631092b332e04626f303b3771bc7cf28d24588e21ecc015c8ed51322332c",
-  "size": 9598976,
-  "notes": "Third-person freeze fixed"
+  "version": "1.6",
+  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v1.6-win64.exe",
+  "sha256": "1f0253ce5d412fe43fa1d1cb5fe36fa46d2b86cfc2326b21dd12867c47657faf",
+  "size": 9677824,
+  "notes": "Nine new skills, building interiors and crafting"
 }
