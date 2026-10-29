@@ -1,7 +1,7 @@
 {
-  "version": "1.4",
-  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v1.4-win64.exe",
-  "sha256": "4eafb4065c8049fb6238877f0dd9179d0b1cf3d7a0bb7312d32b395992a74a4a",
-  "size": 9552896,
-  "notes": "Saint Aldric's Abbey, and water that stays in its banks"
+  "version": "1.5",
+  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v1.5-win64.exe",
+  "sha256": "ba203435524204b4bfcaa1154a8752eddf2d7980098fd71df2b63fa8013eec05",
+  "size": 9598976,
+  "notes": "The King's Road and Britania"
 }
