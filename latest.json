@@ -1,7 +1,7 @@
 {
-  "version": "1.1",
-  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v1.1-win64.exe",
-  "sha256": "6be1a4ef093fc4ddcbb8c305d883aa224bb8ad035b77a77c8f206b21fdc6c8ee",
-  "size": 9356288,
-  "notes": "Saving and loading"
+  "version": "1.2",
+  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v1.2-win64.exe",
+  "sha256": "0316a0677f858a694a8d5bbd05557b21b3cf3e87a97c0b293a43ba85e5895105",
+  "size": 9501696,
+  "notes": "Swimming, a real bridge, deeper woods and a screen filter"
 }
