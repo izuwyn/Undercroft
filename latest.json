@@ -1,7 +1,7 @@
 {
-  "version": "1.0",
-  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v1.0-win64.exe",
-  "sha256": "41ee83c24a6a60df22a7fc1258c9a4b9fdd66a4c1361beefd732262421f6d861",
-  "size": 9069568,
-  "notes": "The Abbey Road"
+  "version": "1.1",
+  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v1.1-win64.exe",
+  "sha256": "6be1a4ef093fc4ddcbb8c305d883aa224bb8ad035b77a77c8f206b21fdc6c8ee",
+  "size": 9356288,
+  "notes": "Saving and loading"
 }
