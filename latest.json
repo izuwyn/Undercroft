@@ -1,7 +1,7 @@
 {
-  "version": "1.7",
-  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v1.7-win64.exe",
-  "sha256": "6ae699244f728785a3f3f4d1bae09c2e9d8f02ce6c36f0288fc37bfdc296acd8",
-  "size": 9719296,
-  "notes": "Blue skies, a quest journal, side quests, fast travel and mountains at the edge of the world"
+  "version": "1.7.1",
+  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v1.7.1-win64.exe",
+  "sha256": "342fcf75bfa0b5028e57f834b4dd90ab4fc70a0b2e9c63e5fa8fec8bed037464",
+  "size": 9760768,
+  "notes": "Changelog on the title screen"
 }
