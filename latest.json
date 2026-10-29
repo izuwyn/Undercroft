@@ -1,7 +1,7 @@
 {
-  "version": "1.6",
-  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v1.6-win64.exe",
-  "sha256": "1f0253ce5d412fe43fa1d1cb5fe36fa46d2b86cfc2326b21dd12867c47657faf",
-  "size": 9677824,
-  "notes": "Nine new skills, building interiors and crafting"
+  "version": "1.7",
+  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v1.7-win64.exe",
+  "sha256": "6ae699244f728785a3f3f4d1bae09c2e9d8f02ce6c36f0288fc37bfdc296acd8",
+  "size": 9719296,
+  "notes": "Blue skies, a quest journal, side quests, fast travel and mountains at the edge of the world"
 }
