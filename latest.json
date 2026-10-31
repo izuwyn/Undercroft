@@ -1,7 +1,7 @@
 {
-  "version": "1.7.1",
-  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v1.7.1-win64.exe",
-  "sha256": "342fcf75bfa0b5028e57f834b4dd90ab4fc70a0b2e9c63e5fa8fec8bed037464",
-  "size": 9760768,
-  "notes": "Changelog on the title screen"
+  "version": "2.0",
+  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v2.0-win64.exe",
+  "sha256": "43f27fe43c1ac6c2446c8d2c717b456494363ad69685997772c388e6f2b21353",
+  "size": 9976832,
+  "notes": "The lands beyond: a world ten times as deep, dungeons, Britania's wards, werewolves and vampires"
 }
