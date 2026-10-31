@@ -1,7 +1,7 @@
 {
-  "version": "2.0.1",
-  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v2.0.1-win64.exe",
-  "sha256": "0f1c7a090f75095715ec5b9798840aceb2ef32399f37e74a70e96407e9b81605",
-  "size": 9986048,
-  "notes": "Fast travel by controller, and a better barter screen"
+  "version": "2.1",
+  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v2.1-win64.exe",
+  "sha256": "710da7d715077fbbc187bc66a08e2aab46a1b1cda36372b28eb85b8639ddac4a",
+  "size": 9990656,
+  "notes": "Better sound and a sharper picture"
 }
