@@ -1,7 +1,7 @@
 {
-  "version": "2.1",
-  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v2.1-win64.exe",
-  "sha256": "710da7d715077fbbc187bc66a08e2aab46a1b1cda36372b28eb85b8639ddac4a",
-  "size": 9990656,
-  "notes": "Better sound and a sharper picture"
+  "version": "2.1.1",
+  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v2.1.1-win64.exe",
+  "sha256": "c94c6aefa6bbfe634c84bd2f8b31a3be2b1740bda9467bf37941509644c76358",
+  "size": 9998336,
+  "notes": "Tidier homes, a look at yourself, and Save and quit"
 }
