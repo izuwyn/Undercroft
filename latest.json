@@ -1,7 +1,7 @@
 {
-  "version": "3.2",
-  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v3.2-win64.exe",
-  "sha256": "cdf2b4d2772f7c20b943d2362618519f2a0a6fd8f5165fb31ff7de0161348717",
-  "size": 10321408,
-  "notes": "Export and import saves"
+  "version": "3.3",
+  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v3.3-win64.exe",
+  "sha256": "463cd925f12d7f6b46f68cfa9127c0b02ba444a99b3d0d550365a1022ee41e0e",
+  "size": 10332672,
+  "notes": "Twice the detail, in the textures and the effects"
 }
