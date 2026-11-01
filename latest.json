@@ -1,7 +1,7 @@
 {
-  "version": "3.1",
-  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v3.1-win64.exe",
-  "sha256": "b13b70392da9cda5b0041a9fdc2751a02a7907afc3f1a73effe9576c05ca094a",
-  "size": 10314240,
-  "notes": "The work goes on behind the menu"
+  "version": "3.2",
+  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v3.2-win64.exe",
+  "sha256": "cdf2b4d2772f7c20b943d2362618519f2a0a6fd8f5165fb31ff7de0161348717",
+  "size": 10321408,
+  "notes": "Export and import saves"
 }
