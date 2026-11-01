@@ -1,7 +1,7 @@
 {
-  "version": "3.6",
-  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v3.6-win64.exe",
-  "sha256": "7a3a7c16405e7405f7f69cefceb8d62cea53b4e1977158468616249907fbed5b",
-  "size": 10341376,
-  "notes": "4x hands, spells and icons"
+  "version": "3.7",
+  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v3.7-win64.exe",
+  "sha256": "ef14612fb6a68b7352d11e3e73e358f89dc638371aedc2c3c1ea4cc24fc9c772",
+  "size": 10349056,
+  "notes": "Everything at 4x, and furniture you can't walk through"
 }
