@@ -1,7 +1,7 @@
 {
-  "version": "2.3",
-  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v2.3-win64.exe",
-  "sha256": "6dc669ca97929b21d01bd0592b1b6074fe291a339f8c37eacc85636f651ab59c",
-  "size": 10143232,
-  "notes": "Thieves, far horizons and new arms"
+  "version": "2.4",
+  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v2.4-win64.exe",
+  "sha256": "5a507ba3d3d80917911828a0ac653bf2b33aa118c44a8cace117164587ad93e5",
+  "size": 10149376,
+  "notes": "New peoples, new paths, new stones"
 }
