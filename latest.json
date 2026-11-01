@@ -1,7 +1,7 @@
 {
-  "version": "2.8.1",
-  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v2.8.1-win64.exe",
-  "sha256": "432abf2c34af221e579bdc93745999994230d8097e923b7fd8ff56002b834db7",
-  "size": 10228736,
-  "notes": "The mouse stays put"
+  "version": "2.9",
+  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v2.9-win64.exe",
+  "sha256": "83749f12b75e35cf2e978b6d4ce629560ab313e989ccd4d6babe6aea879a39fa",
+  "size": 10264064,
+  "notes": "Living towns, and Chapter II begins"
 }
