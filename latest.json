@@ -1,7 +1,7 @@
 {
-  "version": "2.9",
-  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v2.9-win64.exe",
-  "sha256": "83749f12b75e35cf2e978b6d4ce629560ab313e989ccd4d6babe6aea879a39fa",
-  "size": 10264064,
-  "notes": "Living towns, and Chapter II begins"
+  "version": "3.0",
+  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v3.0-win64.exe",
+  "sha256": "fcd51dec5cfc01a72d6d1996edb5a2a05ddcbcfd6e1fadea24fdd42a58cdf35d",
+  "size": 10309632,
+  "notes": "Moonsteel and Emberforged, crafting cinematics, a living sky"
 }
