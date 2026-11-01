@@ -1,7 +1,7 @@
 {
-  "version": "2.4",
-  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v2.4-win64.exe",
-  "sha256": "5a507ba3d3d80917911828a0ac653bf2b33aa118c44a8cace117164587ad93e5",
-  "size": 10149376,
-  "notes": "New peoples, new paths, new stones"
+  "version": "2.5",
+  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v2.5-win64.exe",
+  "sha256": "4bb3499b7ccd080fa1d0bb5fca69b3b58339f733211bf4017a4b8b317c935672",
+  "size": 10159104,
+  "notes": "Fists, impacts and better bars"
 }
