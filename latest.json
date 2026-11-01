@@ -1,7 +1,7 @@
 {
-  "version": "2.7",
-  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v2.7-win64.exe",
-  "sha256": "c901500f8513b00019040cb6db0d2c259c47dc6bd0015ca2aa8032103941a2f3",
-  "size": 10206208,
-  "notes": "Mountains, waterfalls and footsteps"
+  "version": "2.8",
+  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v2.8-win64.exe",
+  "sha256": "d9f448b3df2383c0199fc50c14626454c2d9936fb528b77072dc2dda6c5925c7",
+  "size": 10227200,
+  "notes": "A painted world"
 }
