@@ -1,7 +1,7 @@
 {
-  "version": "2.6",
-  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v2.6-win64.exe",
-  "sha256": "e0f23f54f9da7cd45899d61fb4efc35997a29b895a4cbbd5d1da60d67d0b5aa2",
-  "size": 10182144,
-  "notes": "Homes of the Rimeborn and the Ashari, guards who give chase, and people who walk"
+  "version": "2.7",
+  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v2.7-win64.exe",
+  "sha256": "c901500f8513b00019040cb6db0d2c259c47dc6bd0015ca2aa8032103941a2f3",
+  "size": 10206208,
+  "notes": "Mountains, waterfalls and footsteps"
 }
