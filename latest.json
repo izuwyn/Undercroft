@@ -1,7 +1,7 @@
 {
-  "version": "3.4",
-  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v3.4-win64.exe",
-  "sha256": "ef5e042a0aae0d083bd31eab4f038b2aafb2cca1fe010afa84a6971a42e0dd50",
-  "size": 10333696,
-  "notes": "The work keeps going"
+  "version": "3.5",
+  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v3.5-win64.exe",
+  "sha256": "fe88ffb54a9d1aa6e3c809f0d99f2a68ac6dccca43774dce8a75ebaaa5facb26",
+  "size": 10336256,
+  "notes": "Weapons in hand and item icons at 2x"
 }
