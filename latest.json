@@ -1,7 +1,7 @@
 {
-  "version": "3.7",
-  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v3.7-win64.exe",
-  "sha256": "ef14612fb6a68b7352d11e3e73e358f89dc638371aedc2c3c1ea4cc24fc9c772",
-  "size": 10349056,
-  "notes": "Everything at 4x, and furniture you can't walk through"
+  "version": "3.8",
+  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v3.8-win64.exe",
+  "sha256": "9e3b4833a0616fc2c692af4bd5d7b3a9ca6d3aedf600a57061a00b2dceb6d98e",
+  "size": 10352640,
+  "notes": "Brighter, with brightness and contrast settings"
 }
