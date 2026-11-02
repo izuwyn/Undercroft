@@ -1,7 +1,7 @@
 {
-  "version": "4.0",
-  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v4.0-win64.exe",
-  "sha256": "555efd7bdaf1169d14acde09827275bd28ceb9fe8923851a92b79846a9093ce5",
-  "size": 10431488,
-  "notes": "Fitted armour, a new art style, livelier dungeons"
+  "version": "4.1",
+  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v4.1-win64.exe",
+  "sha256": "1eef5844f3621fdfe33b0a0fa75e43c2bcceb4005b091ec81314ab841a3455db",
+  "size": 10463232,
+  "notes": "Cloaks, primordial relics, the brothers come home"
 }
