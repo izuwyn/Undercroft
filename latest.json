@@ -1,7 +1,7 @@
 {
-  "version": "3.8",
-  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v3.8-win64.exe",
-  "sha256": "9e3b4833a0616fc2c692af4bd5d7b3a9ca6d3aedf600a57061a00b2dceb6d98e",
-  "size": 10352640,
-  "notes": "Brighter, with brightness and contrast settings"
+  "version": "3.9",
+  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v3.9-win64.exe",
+  "sha256": "79a5b7c0c89ffd2ad3af63746d9e3a036a8eba5ba036df65b0b8e7583c840509",
+  "size": 10409472,
+  "notes": "The Deep Crypt, ghosts, new crafting stations and living woods"
 }
