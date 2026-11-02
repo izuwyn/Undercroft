@@ -1,7 +1,7 @@
 {
-  "version": "3.9.2",
-  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v3.9.2-win64.exe",
-  "sha256": "37a2005b9a433bed66c951221a549a051b6ddb9c7860ea244c2af08fbb19e621",
-  "size": 10410496,
-  "notes": "The bow in your hands, off to the side"
+  "version": "4.0",
+  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v4.0-win64.exe",
+  "sha256": "555efd7bdaf1169d14acde09827275bd28ceb9fe8923851a92b79846a9093ce5",
+  "size": 10431488,
+  "notes": "Fitted armour, a new art style, livelier dungeons"
 }
