@@ -1,7 +1,7 @@
 {
-  "version": "3.9.1",
-  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v3.9.1-win64.exe",
-  "sha256": "7e454c90d5b7ff0984ac9ed53870c8ded2e80614341adbd2ad2d6d94954add54",
-  "size": 10409984,
-  "notes": "The bow sits to one side"
+  "version": "3.9.2",
+  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v3.9.2-win64.exe",
+  "sha256": "37a2005b9a433bed66c951221a549a051b6ddb9c7860ea244c2af08fbb19e621",
+  "size": 10410496,
+  "notes": "The bow in your hands, off to the side"
 }
