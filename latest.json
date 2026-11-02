@@ -1,7 +1,7 @@
 {
-  "version": "4.1",
-  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v4.1-win64.exe",
-  "sha256": "1eef5844f3621fdfe33b0a0fa75e43c2bcceb4005b091ec81314ab841a3455db",
-  "size": 10463232,
-  "notes": "Cloaks, primordial relics, the brothers come home"
+  "version": "4.2",
+  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v4.2-win64.exe",
+  "sha256": "527c14a880b9f9bc3171459bcdc5e724b4aac6a094d56cd46c3de7935367b897",
+  "size": 10575360,
+  "notes": "Light and Shadow, cooking, and restaurants"
 }
