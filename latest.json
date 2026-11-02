@@ -1,7 +1,7 @@
 {
-  "version": "4.2.1",
-  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v4.2.1-win64.exe",
-  "sha256": "ee8181a1635781200f4c8ded820c6558cb08609b34f6da2b3de4b2feb6bc98fe",
-  "size": 10576384,
-  "notes": "Fixes for the path tomes"
+  "version": "4.2.2",
+  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v4.2.2-win64.exe",
+  "sha256": "5e0f5438b9edd55fe5fe640bd95411ed58c14ce587bdc52102dc65d8398efdfd",
+  "size": 10578432,
+  "notes": "Path spells unlock with your level"
 }
