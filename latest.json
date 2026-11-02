@@ -1,7 +1,7 @@
 {
-  "version": "4.2.2",
-  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v4.2.2-win64.exe",
-  "sha256": "5e0f5438b9edd55fe5fe640bd95411ed58c14ce587bdc52102dc65d8398efdfd",
-  "size": 10578432,
-  "notes": "Path spells unlock with your level"
+  "version": "4.2.3",
+  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v4.2.3-win64.exe",
+  "sha256": "58d52d2e1778131f413baba074c899c9c30748144a583ca86e9c4730a5a401aa",
+  "size": 10578944,
+  "notes": "Ysolde's chapter-two conversation"
 }
