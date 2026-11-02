@@ -1,7 +1,7 @@
 {
-  "version": "3.9",
-  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v3.9-win64.exe",
-  "sha256": "79a5b7c0c89ffd2ad3af63746d9e3a036a8eba5ba036df65b0b8e7583c840509",
-  "size": 10409472,
-  "notes": "The Deep Crypt, ghosts, new crafting stations and living woods"
+  "version": "3.9.1",
+  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v3.9.1-win64.exe",
+  "sha256": "7e454c90d5b7ff0984ac9ed53870c8ded2e80614341adbd2ad2d6d94954add54",
+  "size": 10409984,
+  "notes": "The bow sits to one side"
 }
