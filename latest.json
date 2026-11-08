@@ -1,7 +1,7 @@
 {
-  "version": "4.2.3",
-  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v4.2.3-win64.exe",
-  "sha256": "58d52d2e1778131f413baba074c899c9c30748144a583ca86e9c4730a5a401aa",
-  "size": 10578944,
-  "notes": "Ysolde's chapter-two conversation"
+  "version": "4.2.4",
+  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v4.2.4-win64.exe",
+  "sha256": "4107a5823b62e83866a5fa4517e48d38167db59b06b5340bb9356421de5f037c",
+  "size": 10583552,
+  "notes": "Runs better on laptops"
 }
