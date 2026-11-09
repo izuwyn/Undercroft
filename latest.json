@@ -1,7 +1,7 @@
 {
-  "version": "4.2.4",
-  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v4.2.4-win64.exe",
-  "sha256": "4107a5823b62e83866a5fa4517e48d38167db59b06b5340bb9356421de5f037c",
-  "size": 10583552,
-  "notes": "Runs better on laptops"
+  "version": "4.2.5",
+  "url": "https://raw.githubusercontent.com/izuwyn/Undercroft/refs/heads/main/releases/TheUndercroft-v4.2.5-win64.exe",
+  "sha256": "0eb308fbd6f24732a18c247c97583dd89b446ad0180ff9e8335b6b8b41ebebec",
+  "size": 10584064,
+  "notes": ""
 }
